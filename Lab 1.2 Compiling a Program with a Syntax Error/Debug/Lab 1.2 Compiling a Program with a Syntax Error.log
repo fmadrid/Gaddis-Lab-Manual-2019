@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab 1.2 Compiling a Program with a Syntax Error.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  semiprob.cpp
+C:\Users\frank\source\repos\Lab 1 Introduction to Programming and the Translation Process\Lab 1.2 Compiling a Program with a Syntax Error\semiprob.cpp(17,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Lab 1.2 Compiling a Program with a Syntax Error.vcxproj -> C:\Users\frank\source\repos\Lab 1 Introduction to Programming and the Translation Process\Debug\Lab 1.2.exe

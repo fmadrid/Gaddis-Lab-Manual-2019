@@ -1,0 +1,4 @@
+﻿  array_struct.cpp
+C:\Users\frank\Desktop\CSCI-110-Lab-1-Introduction-to-the-Programming-and-the-Translation-Process\Lab Manual Source Code\Lab 11\array_struct.cpp(45,30): error C2065: 'index': undeclared identifier
+C:\Users\frank\Desktop\CSCI-110-Lab-1-Introduction-to-the-Programming-and-the-Translation-Process\Lab Manual Source Code\Lab 11\array_struct.cpp(46,11): error C2065: 'citizen': undeclared identifier
+C:\Users\frank\Desktop\CSCI-110-Lab-1-Introduction-to-the-Programming-and-the-Translation-Process\Lab Manual Source Code\Lab 11\array_struct.cpp(46,19): error C2065: 'index': undeclared identifier

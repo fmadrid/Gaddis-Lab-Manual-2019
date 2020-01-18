@@ -1,0 +1,5 @@
+﻿  convertmoney.cpp
+C:\Users\frank\Desktop\CSCI-110-Lab-1-Introduction-to-the-Programming-and-the-Translation-Process\Lab Manual Source Code\Lab 6.2\convertmoney.cpp(21,8): warning C4101: 'yen': unreferenced local variable
+C:\Users\frank\Desktop\CSCI-110-Lab-1-Introduction-to-the-Programming-and-the-Translation-Process\Lab Manual Source Code\Lab 6.2\convertmoney.cpp(20,8): warning C4101: 'pesos': unreferenced local variable
+C:\Users\frank\Desktop\CSCI-110-Lab-1-Introduction-to-the-Programming-and-the-Translation-Process\Lab Manual Source Code\Lab 6.2\convertmoney.cpp(19,8): warning C4101: 'euros': unreferenced local variable
+  Lab 6.7 Value Returning and Overloading Functions.vcxproj -> C:\Users\frank\Desktop\CSCI-110-Lab-1-Introduction-to-the-Programming-and-the-Translation-Process\x64\Debug\Lab 6.7 Value Returning and Overloading Functions.exe

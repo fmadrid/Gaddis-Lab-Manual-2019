@@ -1,0 +1,5 @@
+﻿  inventory.cpp
+C:\Users\frank\Desktop\CSCI-110-Lab-1-Introduction-to-the-Programming-and-the-Translation-Process\Lab Manual Source Code\Lab 13\inventory.cpp(52,6): warning C4101: 'pos': unreferenced local variable
+C:\Users\frank\Desktop\CSCI-110-Lab-1-Introduction-to-the-Programming-and-the-Translation-Process\Lab Manual Source Code\Lab 13\inventory.cpp(54,6): warning C4101: 'total': unreferenced local variable
+C:\Users\frank\Desktop\CSCI-110-Lab-1-Introduction-to-the-Programming-and-the-Translation-Process\Lab Manual Source Code\Lab 13\inventory.cpp(53,6): warning C4101: 'id': unreferenced local variable
+  Lab 13.4 Arrays of Objects.vcxproj -> C:\Users\frank\Desktop\CSCI-110-Lab-1-Introduction-to-the-Programming-and-the-Translation-Process\x64\Debug\Lab 13.4 Arrays of Objects.exe

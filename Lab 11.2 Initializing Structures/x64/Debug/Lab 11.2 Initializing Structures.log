@@ -1,0 +1,7 @@
+﻿  init_struct.cpp
+C:\Users\frank\Desktop\CSCI-110-Lab-1-Introduction-to-the-Programming-and-the-Translation-Process\Lab Manual Source Code\Lab 11\init_struct.cpp(39,22): error C2065: 'citizen1': undeclared identifier
+C:\Users\frank\Desktop\CSCI-110-Lab-1-Introduction-to-the-Programming-and-the-Translation-Process\Lab Manual Source Code\Lab 11\init_struct.cpp(41,40): error C2065: 'citizen1': undeclared identifier
+C:\Users\frank\Desktop\CSCI-110-Lab-1-Introduction-to-the-Programming-and-the-Translation-Process\Lab Manual Source Code\Lab 11\init_struct.cpp(43,42): error C2065: 'citizen1': undeclared identifier
+C:\Users\frank\Desktop\CSCI-110-Lab-1-Introduction-to-the-Programming-and-the-Translation-Process\Lab Manual Source Code\Lab 11\init_struct.cpp(53,22): error C2065: 'citizen2': undeclared identifier
+C:\Users\frank\Desktop\CSCI-110-Lab-1-Introduction-to-the-Programming-and-the-Translation-Process\Lab Manual Source Code\Lab 11\init_struct.cpp(55,40): error C2065: 'citizen2': undeclared identifier
+C:\Users\frank\Desktop\CSCI-110-Lab-1-Introduction-to-the-Programming-and-the-Translation-Process\Lab Manual Source Code\Lab 11\init_struct.cpp(57,42): error C2065: 'citizen2': undeclared identifier
