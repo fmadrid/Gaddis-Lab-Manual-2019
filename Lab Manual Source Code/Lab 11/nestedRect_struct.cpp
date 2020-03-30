@@ -36,9 +36,9 @@ int main()
 
 	cout << fixed << showpoint << setprecision(2);
 
-	cout << "The area of the rectangle is " << box.attributes.area << endl;
+	cout << "The area of the rectangle is " << box.area << endl;
 
-	cout << "The perimeter of the rectangle is " << box.attributes.perimeter
+	cout << "The perimeter of the rectangle is " << box.perimeter
 		 << endl;
 
 	return 0;
